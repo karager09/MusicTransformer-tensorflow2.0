@@ -1,3 +1,12 @@
+# Co zostało dodane do oryginalnego projektu
+
+- Notebook "Jak_korzystac_z_biblioteki", którym podaje podstawowe działanie poniższej biblioteki. Przede wszystkim pokazuje w nim jak ściągnąć zbiór danych uczących, na jego podstawie wytrenować sieć i wygenerować muzykę.
+- Notebook "Jak_dziala_self-attention", w którym opisałem szczegółowo mechanizm attention, abstrachując od biblioteki.
+- W folderze "sample_model" znajduje się wytrenowany przeze mnie model generujący około 20 sekundowe piosenki a dwa przykłady takich piosenek są dodane w głównym katalogu ("generared.mp3").
+- Dodałem również kod potrzebny przy preprocesingu utworów (zaciągnięty z innego repozytorium).
+
+
+
 # Music Transformer: Generating Music with Long-Term Structure
 
 - 2019 ICLR, Cheng-Zhi Anna Huang, Google Brain
